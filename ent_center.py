@@ -1,12 +1,11 @@
 import media
 import fresh_tomatoes
 
-toy_story = media.Movie("Toy Story", "Prica o decaku i njegovim igrackama koje su ozivele","http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", "https://www.youtube.com/watch?v=KYz2wyBy3kc")
-#print (toy_story.storyline)
+ocean12 = media.Movie("Ocean12", "","http://upload.wikimedia.org/wikipedia/sr/thumb/0/01/Ousnovih_12.jpg/250px-Ousnovih_12.jpg", "https://www.youtube.com/watch?v=TSKzL-8RHuw")
 
-avatar = media.Movie("Avatar", "Marinac na nepoznatoj planeti","http://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg","https://www.youtube.com/watch?v=d1_JBMrrYw8")
-#print (avatar.storyline)
-#avatar.show_trailer()
+
+T2 = media.Movie("T2", "","http://images2.fanpop.com/image/photos/11600000/T2-terminator-11685785-1000-1500.jpg","https://www.youtube.com/watch?v=DxgLwrW9h_A")
+
 
 rocky = media.Movie("Rocky", "Prica o dripcu koji postaje bokser","http://vignette2.wikia.nocookie.net/rocky/images/3/35/Rockynovel.jpg/revision/latest/scale-to-width/250?cb=20080101171536","https://www.youtube.com/watch?v=3VUblDwa648")
 #rocky.show_trailer()
