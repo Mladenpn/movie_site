@@ -16,7 +16,7 @@ tesna_koza = media.Movie("Tesna Koza", "Avanture Sojica i Pantica","http://uploa
 
 
 
-movies = [toy_story, avatar, rocky, zikina_dinastija, tesna_koza]
+movies = [ocean12, T2, rocky, zikina_dinastija, tesna_koza]
 
 
 #fresh_tomatoes.open_movies_page(movies)
